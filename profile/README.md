@@ -8,17 +8,17 @@
     <h3>Team Norms : 아무말을 즐기는 떡잎 모함대</h3>
     <img width="487" alt="image" src="https://user-images.githubusercontent.com/87136217/234870037-a733adc3-8206-41ff-86fc-c1de325ffef1.png">
     <br>
-    <h3>Our Challenge : (내가 아닌 다른 누군가)를 위한 (의미있는 경험)을 만들자.<br>부모와 아이가 함께 놀 수 있게하자.</h3>
+    <h3>🏁Our Challenge : (내가 아닌 다른 누군가)를 위한 (의미있는 경험)을 만들자.<br>부모와 아이가 함께 놀 수 있게하자.</h3>
     <br>
-    <h3>Our Solution Concept : 엄마가 하는 요리를 앱으로 같이 요리해보는 경험을 주기.</h3>
+    <h3>🚂Our Solution Concept : 엄마가 하는 요리를 앱으로 같이 요리해보는 경험을 주기.</h3>
     <br>
-    <h3>Prototype</h3>
+    <h3>📱Prototype📱</h3>
     <img src="https://user-images.githubusercontent.com/87136217/234875091-11a4ee5a-af47-456c-b8c1-cd016eed4212.png" alt="intro" width=1000>
     <img src="https://user-images.githubusercontent.com/87136217/234876092-e5956a02-ca35-4fee-a45e-55c2be31a202.png" alt="intro" width=1000>
     <h2>🛠Develop Framework🛠</h2>
     <h3>IOS (SwiftUI_XCode)<br>Miro  Sketch </h3>
     <br>
-    <h2>Collaborators</h2>
+    <h2>🧑‍💻Collaborators👩‍💻</h2>
     <table>
         <tr>
           <td><img src="https://avatars.githubusercontent.com/u/116425551?v=4" width="130"></td>
