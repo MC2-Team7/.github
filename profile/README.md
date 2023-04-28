@@ -36,12 +36,4 @@
           <td><a href='https://github.com/eemdeeks'>Ddan</a></td>
           <td><a href='https://github.com/yerimee82'>Yerimee</a></td>
         </tr>
-          <tr align=center>
-          <td>Domain</td>
-          <td>Design</td>
-          <td>Tech</td>
-          <td>Tech</td>
-          <td>Tech</td>
-          <td>Tech</td>
-        </tr>
     </table>
